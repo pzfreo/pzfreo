@@ -61,6 +61,7 @@ _**Major Achievements**_
 - Awarded an IBM Corporate Award for the creation of WSIF and WS Gateway.
 
 **Previous roles**
+
 August 1998 – December 2000 Technical Expert, IBM Software Group
 
 September 1996-August 1998 Internet Consultant, IBM Global Services
@@ -74,15 +75,17 @@ August 1990-June 1992 Analyst, ZS Associates
 **Education**
 
 2013-2017 PhD in Computing, University of Portsmouth
+Thesis: _An approach to enhancing security and identity of the Internet of Things with Federated Identity_
 
 1994-1995 MSc in Computation, Oxford University Computing Lab, _Distinction_
 
-1987-1990 BA in Mathematics and Philosophy, Balliol College, Oxford University, 2:1
+1987-1990 BA in Mathematics and Philosophy, Balliol College, Oxford University - 2:1
 
-1982-1986 Worth School, Sussex, A-levels in Mathematics, Further Maths, Physics and Religious Studies
+1982-1986 Worth School, Sussex: A-levels in Mathematics, Further Maths, Physics and Religious Studies
 
 
 **Peer-Reviewed Research Publications**
+
 _I have over 40 published peer reviewed articles with over 1700 citations._
 
 Fremantle, P., Aziz, B., &amp; Kirkham, T &quot;_Enhancing IoT Security and privacy with distributed ledgers - a position paper_&quot;.  IoTBDS 2017: 2nd International Conference on Internet of Things, Big Data and Security.
