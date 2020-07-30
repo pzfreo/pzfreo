@@ -1,7 +1,5 @@
 ### Paul Fremantle
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Kubernetes, APIs, GraphQL
 - 🌱 I’m currently learning lots
 - 👯 I’m looking to collaborate on making APIs and applications easier
