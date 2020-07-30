@@ -1,4 +1,5 @@
-**Dr. Paul Fremantle** [**https://www.linkedin.com/in/paulfremantle/**](https://www.linkedin.com/in/paulfremantle/) paul@fremantle.org, 07740 199 729
+**Dr. Paul Fremantle** 
+[**https://www.linkedin.com/in/paulfremantle/**](https://www.linkedin.com/in/paulfremantle/)
 
 **Personal Profile**
 
@@ -13,7 +14,7 @@
 
 **CTO and Co-Founder, WSO2**  **August 2005-August 2020**
 
-_ **Job Role** _
+_**Job Role**_
 
 - Technical visionary in API management and cloud.
 - Creation of a complete middleware platform. Led and designed the unification of the architecture across products using OSGi. Moved the product set from on-premise to become a full cloud solution.
@@ -23,7 +24,7 @@ _ **Job Role** _
 - Presenting to senior customer technical leaders on WSO2's vision and technology.
 
 
-_ **Major Achievements** _
+_**Major Achievements**_
 
 - Co-founder of a startup – taking the company from 3 employees to 600+, and more than $45m in revenue.
 - Creator of Apache Synapse, which is now used (as the WSO2 ESB) by eBay to handle over 6 billion transactions/day. Synapse is in production at over 500 customers in two key products of WSO2.
@@ -45,14 +46,14 @@ I currently teach the Service Oriented Architecture and Cloud/Big Data modules o
 
 **Software Architect (Band 9) January 2001-October 2003**
 
-_ **Job Role** _
+_**Job Role**_
 
 - Creator, Lead Architect and Product Lead for IBM Web Services Gateway
 - Lead Architect and creator for the IBM WSIF component
 - Co-lead of the Java Standards JSR110 working group
 - Co-chair of the OASIS WS-RX Technical Committee
 
-_ **Major Achievements** _
+_**Major Achievements**_
 
 - Shipped the world's first XML Gateway on IBM AlphaWorks in December 2001, leading to the concept of an API Gateway.
 - Created a unique SOA framework (WSIF) and led this to be Open Sourced in Apache.
