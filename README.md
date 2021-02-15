@@ -1,9 +1,8 @@
 ### Paul Fremantle
 
--  I’m currently working on Kubernetes, APIs, GraphQL
+-  I’m currently working on GitOps, Kubernetes, APIs
 -  I’m currently learning lots
--  I’m looking to collaborate on making APIs and applications easier
--  Ask me about API management, tin whistles, Irish music
+-  Ask me about GitOps, API management, tin whistles, Irish music
 -  How to reach me: paul@fremantle.org
 -  Fun fact: I'm a qualified snowboard instructor
 
