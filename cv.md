@@ -11,6 +11,9 @@
 - A world-class technical expert with strengths in areas such as Cloud computing, APIs, Federated Identity, Internet of Things.
 - Strong communications skills including writing and presenting. The co-author of numerous peer-reviewed articles, three books, and a presenter at many international conferences including QCon, JAX, and APIDays.
 
+**VP, Product Engineering, Weaveworks**  **October 2020-present**
+
+As VP, Product Engineering at Weaveworks, I am responsible for the engineering organisation, including 4 teams working on Open Source and commercial products. I also am strongly involved in defining and shaping the technical product strategy of Weaveworks. 
 
 **CTO and Co-Founder, WSO2**  **August 2005-August 2020**
 
