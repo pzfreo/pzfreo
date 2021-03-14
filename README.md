@@ -12,7 +12,7 @@ My PhD work is in [https://github.com/pzfreo/oauthing](https://github.com/pzfreo
 
 My courses for the [Oxford Software Engineering Masters](https://www.cs.ox.ac.uk/softeng/) are:
 - CLO - https://github.com/pzfreo/ox-clo and student feedback [here](https://www.cs.ox.ac.uk/sepquestionnaires/?Course=181&date_range=specific&Date=All)
-- SOA - https://github.com/pzfreo/ox-soa2 and student feedback [here](https://www.cs.ox.ac.uk/sepquestionnaires/?Course=155&date_range=range&Date_from=2013-01-01&Date_to=2021-01-01)
+- SOA - https://github.com/pzfreo/ox-soa and student feedback [here](https://www.cs.ox.ac.uk/sepquestionnaires/?Course=155&date_range=range&Date_from=2013-01-01&Date_to=2021-01-01)
 
 
 
