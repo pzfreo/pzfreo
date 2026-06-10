@@ -3,17 +3,16 @@
 
 **Personal Profile**
 
-- A strong technical leader and visionary in the emerging technologies, digital transformation and IoT, with strong experience in product development, technical leadership and enterprise architecture.
-- Co-founder and CTO of a company that has raised more than $50m in VC funds, has recurring subscription revenue of $45m and 20% YoY growth.
-- Responsible for creating, evolving and implementing technical vision across a 300 strong technical team, with distributed teams across US, Europe and Asia.
-- More than 15 years in technical leadership positions including product ownership at IBM and CTO of WSO2, as well as participating in overall company direction and leadership with as a part of the board.
-- Excellent people skills, personal management and emotional intelligence.
+- A luthier making bespoke, handcrafted stringed instruments in Sussex, England, as founder of Chelli Strings — building instruments made with care and attention, using only wonderful wood, that can last generations.
+- A first-class BA (Hons) in Musical Instrument Making from West Dean College.
+- Previously a strong technical leader and visionary in emerging technologies, digital transformation and IoT: co-founder and CTO of WSO2, a company that raised more than $50m in VC funds with recurring subscription revenue of $45m, where I was responsible for technical vision across a 300 strong technical team.
+- More than 15 years in technical leadership positions including product ownership at IBM and CTO of WSO2, as well as participating in overall company direction and leadership as a part of the board.
 - A world-class technical expert with strengths in areas such as Cloud computing, APIs, Federated Identity, Internet of Things.
 - Strong communications skills including writing and presenting. The co-author of numerous peer-reviewed articles, three books, and a presenter at many international conferences including QCon, JAX, and APIDays.
 
 **Luthier and Founder, Chelli Strings**  **July 2025-present**
 
-Self-employed luthier, making and repairing string instruments, running Chelli Strings.
+Self-employed luthier making bespoke, handcrafted stringed instruments in Sussex, England ([chellistrings.co.uk](https://chellistrings.co.uk)). Musical instruments become living things at the hands of musicians: my goal is to build instruments that can last generations.
 
 **BA (Hons) Musical Instrument Making, West Dean College**  **September 2022-July 2025**
 
@@ -47,9 +46,9 @@ _**Major Achievements**_
 
 My Ph.D. thesis _An approach to enhancing security and privacy of the Internet of Things with Federated Identity_ was approved in July 2017 with no changes required by the examiners. As part of my research I created a Secure IoT Middleware (_OAuthing_) that enhances security and privacy for the Internet of Things. I also looked at how distributed ledgers and blockchain can improve privacy and security for IoT. Co-author of a leading textbook on IoT.
 
-**Visiting Lecturer, Oxford University**  **Dec 2012-present**
+**Visiting Lecturer, Oxford University**  **Dec 2012-2021**
 
-I currently teach the Service Oriented Architecture and Cloud/Big Data modules on the Oxford University Software Engineering Programme. Each course is a one-week module that makes up one tenth of the M.Sc. course, and I currently run the courses once a year each. The courses and my teaching is consistently highly rated by the students.
+I taught the Service Oriented Architecture and Cloud/Big Data modules on the Oxford University Software Engineering Programme. Each course was a one-week module that makes up one tenth of the M.Sc. course, and I ran the courses once a year each. The courses and my teaching were consistently highly rated by the students.
 
 **IBM Software Group**
 
