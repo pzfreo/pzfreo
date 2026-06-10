@@ -16,6 +16,8 @@
 
 A short CV is [here](https://github.com/pzfreo/pzfreo/blob/master/cv.md)
 
+My [open source history](https://github.com/pzfreo/pzfreo/blob/master/oss-history.md) — twenty years of OSS work, with attribution stated plainly.
+
 My PhD work is in [oauthing](https://github.com/pzfreo/oauthing).
 
 I previously taught on the [Oxford Software Engineering Masters](https://www.cs.ox.ac.uk/softeng/):
