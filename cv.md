@@ -11,9 +11,17 @@
 - A world-class technical expert with strengths in areas such as Cloud computing, APIs, Federated Identity, Internet of Things.
 - Strong communications skills including writing and presenting. The co-author of numerous peer-reviewed articles, three books, and a presenter at many international conferences including QCon, JAX, and APIDays.
 
-**VP, Product Engineering, Weaveworks**  **October 2020-present**
+**Luthier and Founder, Chelli Strings**  **July 2025-present**
 
-As VP, Product Engineering at Weaveworks, I am responsible for the engineering organisation, including 4 teams working on Open Source and commercial products. I also am strongly involved in defining and shaping the technical product strategy of Weaveworks. 
+Self-employed luthier, making and repairing string instruments, running Chelli Strings.
+
+**BA (Hons) Musical Instrument Making, West Dean College**  **September 2022-July 2025**
+
+Full-time degree in musical instrument making, awarded First Class Honours.
+
+**VP, Product Engineering, Weaveworks**  **October 2020-November 2021**
+
+As VP, Product Engineering at Weaveworks, I was responsible for the engineering organisation, including 4 teams working on Open Source and commercial products. I was also strongly involved in defining and shaping the technical product strategy of Weaveworks. 
 
 **CTO and Co-Founder, WSO2**  **August 2005-August 2020**
 
@@ -76,6 +84,8 @@ June 1992-September 1994 Senior Analyst, ZS Associates
 August 1990-June 1992 Analyst, ZS Associates
 
 **Education**
+
+2022-2025 BA (Hons) in Musical Instrument Making, West Dean College - _First Class Honours_
 
 2013-2017 PhD in Computing, University of Portsmouth
 Thesis: _An approach to enhancing security and identity of the Internet of Things with Federated Identity_
