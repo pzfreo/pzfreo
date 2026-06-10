@@ -4,7 +4,7 @@
 **Personal Profile**
 
 - A luthier making bespoke, handcrafted stringed instruments in Sussex, England, as founder of Chelli Strings — building instruments made with care and attention, using only wonderful wood, that can last generations.
-- A first-class BA (Hons) in Musical Instrument Making from West Dean College.
+- A first-class BA (Hons) in Craft Practices - Musical Instrument Making from West Dean College.
 - Previously a strong technical leader and visionary in emerging technologies, digital transformation and IoT: co-founder and CTO of WSO2, a company that raised more than $50m in VC funds with recurring subscription revenue of $45m, where I was responsible for technical vision across a 300 strong technical team.
 - More than 15 years in technical leadership positions including product ownership at IBM and CTO of WSO2, as well as participating in overall company direction and leadership as a part of the board.
 - A world-class technical expert with strengths in areas such as Cloud computing, APIs, Federated Identity, Internet of Things.
@@ -14,7 +14,7 @@
 
 Self-employed luthier making bespoke, handcrafted stringed instruments in Sussex, England ([chellistrings.co.uk](https://chellistrings.co.uk)). Musical instruments become living things at the hands of musicians: my goal is to build instruments that can last generations.
 
-**BA (Hons) Musical Instrument Making, West Dean College**  **September 2022-July 2025**
+**BA (Hons) Craft Practices - Musical Instrument Making, West Dean College**  **September 2022-July 2025**
 
 Full-time degree in musical instrument making, awarded First Class Honours.
 
@@ -84,7 +84,7 @@ August 1990-June 1992 Analyst, ZS Associates
 
 **Education**
 
-2022-2025 BA (Hons) in Musical Instrument Making, West Dean College - _First Class Honours_
+2022-2025 BA (Hons) in Craft Practices - Musical Instrument Making, West Dean College - _First Class Honours_
 
 2013-2017 PhD in Computing, University of Portsmouth
 Thesis: _An approach to enhancing security and identity of the Internet of Things with Federated Identity_
