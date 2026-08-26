@@ -8,6 +8,7 @@
 **Current focus — [Draftwright](https://draftwright.io):** turning CAD models into real engineering drawings, automatically.
 - [draftwright](https://github.com/pzfreo/draftwright) — the drawing engine: point it at a STEP file or a build123d solid and get annotated orthographic views, dimensions, sections, ISO hatching and a title block, out to PDF/SVG/DXF
 - [draftwright.io](https://draftwright.io) — the app: upload a model, work with an AI on the drawing, download the PDF
+- [build123d-mcp](https://github.com/pzfreo/build123d-mcp) — MCP server for AI-assisted 3D CAD
 
 **The build123d toolchain around it:**
 - [b123d-recognisers](https://github.com/pzfreo/b123d-recognisers) — deterministic, geometry-only feature recognition for B-Rep solids
@@ -15,7 +16,6 @@
 - [cad-fingerprint](https://github.com/pzfreo/cad-fingerprint) — generate pytest suites from a STEP file, so a reimplementation can prove it matches
 - [wormgear](https://wormgear.studio) — worm gears with DIN-3975 engineering behind the geometry
 - [augura](https://github.com/pzfreo/augura) — BREP-exact printability analysis and print advice for FDM
-- [build123d-mcp](https://github.com/pzfreo/build123d-mcp) — MCP server for AI-assisted 3D CAD
 - [estampo](https://estampo.dev) — reproducible 3D print builds (like CI/CD for your printer)
 
 **Instrument making:** [Chelli Strings](https://chellistrings.co.uk) — bespoke handcrafted stringed instruments.
