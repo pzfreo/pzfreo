@@ -10,6 +10,10 @@
 - A world-class technical expert with strengths in areas such as Cloud computing, APIs, Federated Identity, Internet of Things.
 - Strong communications skills including writing and presenting. The co-author of numerous peer-reviewed articles, three books, and a presenter at many international conferences including QCon, JAX, and APIDays.
 
+**Founder, Draftwright**  **March 2026-present**
+
+AI-assisted technical drawing: turn a CAD model into a fully-annotated engineering drawing ([draftwright.io](https://draftwright.io)). Orthographic views, dimensions, sections, hatching and title block are placed automatically from the geometry. An open-source Python drawing engine ([draftwright](https://github.com/pzfreo/draftwright)) plus a hosted application, alongside a toolchain of CAD libraries for feature recognition, drafting annotation and printability analysis.
+
 **Luthier and Founder, Chelli Strings**  **July 2025-present**
 
 Self-employed luthier making bespoke, handcrafted stringed instruments in Sussex, England ([chellistrings.co.uk](https://chellistrings.co.uk)). Musical instruments become living things at the hands of musicians: my goal is to build instruments that can last generations.
