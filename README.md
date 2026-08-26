@@ -5,6 +5,10 @@
 - How to reach me: paul@fremantle.org
 - Fun fact: I'm a qualified snowboard instructor
 
+**Blogs:**
+- [Adventures in 3D](https://experimentsin3d.substack.com/) — 3D printing, CAD, AI, Python
+- [Instrument making blog](https://paulfremantleluthier.substack.com/) — building stringed instruments
+
 **Current focus — [Draftwright](https://draftwright.io):** turning CAD models into real engineering drawings, automatically.
 - [draftwright](https://github.com/pzfreo/draftwright) — the drawing engine: point it at a STEP file or a build123d solid and get annotated orthographic views, dimensions, sections, ISO hatching and a title block, out to PDF/SVG/DXF
 - [draftwright.io](https://draftwright.io) — the app: upload a model, work with an AI on the drawing, download the PDF
@@ -19,7 +23,6 @@
 - [estampo](https://estampo.dev) — reproducible 3D print builds (like CI/CD for your printer)
 
 **Instrument making:** [Chelli Strings](https://chellistrings.co.uk) — bespoke handcrafted stringed instruments.
-- [Luthiery blog](https://paulfremantleluthier.substack.com/)
 - [overstand](https://overstand.tools) — neck geometry calculator for arched string instruments
 - [viol-measuring](https://github.com/pzfreo/viol-measuring) — a tap-testing rig that scales to the instrument
 - [fb-jig](https://github.com/pzfreo/fb-jig) — planing jig for viola da gamba fingerboards
